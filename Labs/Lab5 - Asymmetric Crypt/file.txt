@@ -1,0 +1,2 @@
+This file is going to be encrypted.
+It contains secret data.
